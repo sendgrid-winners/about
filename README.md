@@ -1,8 +1,8 @@
 # About
 
-This Github organization exists to celebrate SendGrid Prize winners. Members may use this organization to display a SendGrid Winner badge on their profile.
+This Github organization exists to celebrate SendGrid Prize winners. Members may use this organization to display a SendGrid Winner badge on their profile, as such:
 
-![Organization Example](https://github.com/sendgrid-winners/about/raw/master/example.png)
+<a href="https://github.com/sendgrid-winners/about/raw/master/expanded-example.png" style="display:block;text-align:center;"><img src="https://github.com/sendgrid-winners/about/raw/master/example.png" alt="Organization Example"></a>
 
 If you've won a SendGrid prize at a hackathon, you'll be added as a member of this organization. You may then [choose to include this organization publicly on your GitHub profile](http://webapps.stackexchange.com/a/33973/20955) and display, proudly that _you_ won a SendGrid Prize.
 
