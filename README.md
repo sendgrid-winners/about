@@ -14,5 +14,5 @@ Credit for this idea goes to [J. Randall Hunt](https://github.com/ranman).
 
 To add the SendGrid Winners badge to your profile, you'll need to choose to publicly display your affiliation with the organization. To do so:
 
-1. Go to the [Organization Members list](https://github.com/orgs/sendgrid-winners/members)
+1. Go to the [Organization Members list](https://github.com/orgs/sendgrid-winners/teams/winners)
 2. Find yourself and click, "Make Public"
